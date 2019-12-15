@@ -1,0 +1,9 @@
+{
+  "name": "motioncapturingalgorithm",
+  "version": "1.0.0",
+  "description": "This algorithm converts gestures captured by a webcam to light patterns on a RGB LED matrix",
+  "main": "ReceiveAndSendDMX.js",
+  "repository": "https://github.com/nikolajbech/motioncapturingalgorithm.git",
+  "author": "Nikolaj Bech Andersen",
+  "license": "MIT"
+}
